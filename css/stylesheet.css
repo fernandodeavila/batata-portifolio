@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 html{
-    font-size: 24px;
+    font-size: 20px;
     color: #57400e;
     font-family: 'Roboto', sans-serif;
 
@@ -75,12 +75,12 @@ aside{
 aside img{
     border-radius: 50%;
     margin-bottom: 20px;
-    width: 300px;
+    width:200px;
     box-shadow: 10px 10px 15px var(--cor5);
 }
 aside h1{
     margin-bottom:10px;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 aside a{
     font-weight: bold;
@@ -146,7 +146,7 @@ main{
     
 }
 .pessoas-networking img{
-    width:300px;
+    width:200px;
     border-radius: 10%;
     margin-bottom: 10px;
 }
@@ -160,7 +160,7 @@ main{
         align-items: center;
     }
     aside img{
-        width: 400px;
+        width: 200px;
         
     }
     main{
@@ -170,7 +170,7 @@ main{
         font-size: 30px;
     }
     .pessoas-networking img{
-        width:400px;
+        width: 300px;
     }
     button{
         width: 100px;
@@ -191,6 +191,9 @@ main{
     aside img{
         width: 300px;
         
+    }
+    aside h1{
+        font-size: 2em;
     }
     main{
         background-image: linear-gradient(to bottom, var(--cor3), 20%, var(--cor4));
