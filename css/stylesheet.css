@@ -167,7 +167,7 @@ main{
         background-image: linear-gradient(to bottom, var(--cor3), 20%, var(--cor4));
     }
     html{
-        font-size: 30px;
+        font-size: 25px;
     }
     .pessoas-networking img{
         width: 300px;
