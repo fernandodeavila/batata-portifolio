@@ -165,9 +165,13 @@ main{
     }
     main{
         background-image: linear-gradient(to bottom, var(--cor3), 20%, var(--cor4));
+        padding: 30px;
     }
     html{
         font-size: 25px;
+    }
+    .pessoas-networking{
+        padding: 20px;
     }
     .pessoas-networking img{
         width: 300px;
